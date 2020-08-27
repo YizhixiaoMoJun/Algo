@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\v-cheshi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\v-cheshi\\.nuget\\packages"
+    ]
+  }
+}
